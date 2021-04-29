@@ -4,6 +4,8 @@ using Evaluacion1.Interfaces;
 using System;
 using System.Linq;
 
+// Realizado por Miguel Pérez
+
 namespace Evaluacion1
 {
     class Program
