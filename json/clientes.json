@@ -1,0 +1,22 @@
+[
+  {
+    "idClientes": 1,
+    "persona": {
+      "idPersona": 1,
+      "categoria":  0,
+      "genero": "Femenino"
+    },
+    "salario": 225000,
+    "bono": 0
+  },
+  {
+    "idClientes": 2,
+    "persona": {
+      "idPersona": 2,
+      "categoria":  1,
+      "genero": "Masculino"
+    },
+    "salario": 225000,
+    "bono": 0
+  }
+]

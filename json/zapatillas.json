@@ -1,0 +1,23 @@
+[
+  {
+    "idZapatillas": 1,
+    "modelo": 0,
+    "precio": 12500,
+    "talla": 38,
+    "valorEnvio": 10000
+  },
+  {
+    "idZapatillas": 2,
+    "modelo": 1,
+    "precio": 25000,
+    "talla": 42,
+    "valorEnvio": 10000
+  },
+  {
+    "idZapatillas": 3,
+    "modelo": 2,
+    "precio": 43000,
+    "talla": 42,
+    "valorEnvio": 10000
+  }
+]
